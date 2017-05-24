@@ -1,3 +1,6 @@
+
+
+
 @charset "utf-8";
 /* CSS Document */
 
@@ -78,13 +81,13 @@ body {
 
 .contentbox {
 	background-color: #CDCDCD;
-	width: 75%;
+	width: 100%;
+	margin: 10px 0 0 0;
+	float: left;
 }
 
 .contentbox h1 {
-	background-color: #E4E4E4;
-	
-	margin: 20px 0 0;
+	background-color: #E4E4E4;	
 }
 
 .contentboxsmall h1 {
