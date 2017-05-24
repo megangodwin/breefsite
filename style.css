@@ -84,14 +84,17 @@ body {
 	width: 100%;
 	margin: 10px 0 0 0;
 	float: left;
+	padding: 10px;
 }
 
 .contentbox h1 {
-	background-color: #E4E4E4;	
+	background-color: #E4E4E4;
+	font-size: 14pt
 }
 
 .contentboxsmall h1 {
 	background-color: #E4E4E4;
+	font-size: 14pt;
 }
 
 .portrait {
@@ -104,6 +107,12 @@ body {
 .talentinfo {
 	padding: 20px;
 	float: left;
+}
+
+.bulletindate {
+	color:#6B6B6B;
+	font size: 2pt;
+	padding-bottom: 10px;
 }
 
 * {box-sizing:border-box}
