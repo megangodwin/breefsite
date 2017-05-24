@@ -54,7 +54,7 @@ body {
 
 .navbar {
 	background-color: aqua;
-	width: 500px;
+	width: 65%;
 	left: 50%;
 	margin: 0 auto;
 }
@@ -62,7 +62,7 @@ body {
 .navtab {
 	background-color: cornflowerblue;
 	float: left;
-	width: 31.33%;
+	width: 18%;
 	left: 50%;
 	margin: 0 1%;
 }
