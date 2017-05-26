@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #525050;
+}
+
+li {
+    float: left;
+	border-right: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 117px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #A8A8A8;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.navbar{
+	text-align: center;
+}
+
+.center{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.content{
+	background-color: #CDCDCD;
+}
+
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+.footer{
+	background-color: #525050;
+	padding: 5px;
+	color: #FFFFFF
+}
