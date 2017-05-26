@@ -37,7 +37,7 @@ body {
 	background-image: url(images/wood1920px.jpg);
 	height: 75px;
 	padding: 15px;
-}
+}nav
 
 .fb {
 	background-image: url(images/fb-icon50px.png);
@@ -58,9 +58,13 @@ body {
 
 .navbar {
 	background-color: aqua;
+<<<<<<< HEAD
 	font-family: helvetica, sans-serif;
 	font-weight: bold;
 	width: 65%;
+=======
+	width: 68%;
+>>>>>>> origin/master
 	left: 50%;
 	margin: 0 auto;
 }
@@ -207,6 +211,36 @@ body {
 
 * {box-sizing:border-box}
 
+/* Sponsors */
+.contentbox .tvcouncil img {
+	width: 80px;
+	margin-left: 20px;
+
+}
+.tvcouncilinfo {
+	padding-left: 20px;
+	padding-top: 10px;
+	float:left;
+	font-weight: bold;
+}
+.contentbox .signs img {
+	width: 130px;
+	margin-left: 10px;
+}
+.signsinfo {
+	padding-left: 20px;
+	float:left;
+	font-weight: bold;
+}
+.contentbox .asap img {
+	width: 130px;
+	margin-left: 200px;
+}
+.asapinfo {
+	padding-left: 80px;
+	float:left;
+	font-weight: bold;
+}
 /* Slideshow container */
 .slideshow {
   max-width: 1000px;
@@ -296,4 +330,7 @@ body {
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+<<<<<<< HEAD
 }
+=======
+>>>>>>> origin/master
